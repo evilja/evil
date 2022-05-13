@@ -1,0 +1,6 @@
+depends{r}!iana-etc
+depends{o}!
+descrip{tr}!- /etc /usr gibi klasörler ve dosyalar
+descrip{en}!- Files and Directories such as /etc and /usr
+sizeofp{p}!0.14
+sizeofp{i}!0.21
