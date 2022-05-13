@@ -1,6 +1,0 @@
-depends{r}!libluv libtermkey libuv libvterm01 luajit msgpack-c tree-sitter unibilium
-depends{o}!xclip xsel
-descrip{tr}!- Vim tabanlı, gelişmiş bir metin düzenleyici
-descrip{en}!- Vim based, advanced text editor 
-sizeofp{p}!5.7
-sizeofp{i}!23.3
