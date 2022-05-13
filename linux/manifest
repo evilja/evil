@@ -1,0 +1,6 @@
+depends{r}!coreutils kmod dracut mkinitcpio
+depends{o}!
+descrip{tr}!- Linux Çekirdeği
+descrip{en}!- Linux Kernel
+sizeofp{p}!160.0
+sizeofp{i}!160.0
